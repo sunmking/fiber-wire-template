@@ -59,7 +59,7 @@ func (r *Redis) Set(key string, data interface{}, time int) error {
 		return err
 	}
 
-	_, err = conn.Do("set", key, value)
+	_, err = conn.Do("SET", key, value)
 	if err != nil {
 		return err
 	}

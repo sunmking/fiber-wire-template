@@ -1,0 +1,9 @@
+2023-12-18 22:47:02.705545900	[31merror[0m	D:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:46	dial tcp 127.0.0.1:3306: connectex: No connection could be made because the target machine actively refused it.
+fiber-wire-template/pkg/ozzodb.NewDb
+	D:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:46
+fiber-wire-template/cmd/app/wire.NewApp
+	D:/gowork/src/fiber-wire-template/cmd/app/wire/wire_gen.go:29
+main.main
+	D:/gowork/src/fiber-wire-template/cmd/app/main.go:15
+runtime.main
+	D:/gowork/pkg/mod/golang.org/toolchain@v0.0.1-go1.21.4.windows-amd64/src/runtime/proc.go:267
