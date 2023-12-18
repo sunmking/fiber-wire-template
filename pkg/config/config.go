@@ -14,15 +14,15 @@ type App struct {
 	JWTSecret string
 	JWTExpire time.Duration
 	// 应用密钥
-	appKey    string
-	appSecret string
+	AppKey    string
+	AppSecret string
 }
 
-var AppCnf = &App{}
+var app App
 
 type Server struct {
 	// 监听端口
-	Port string
+	Port int
 	// 运行模式
 	// 0: 单进程模式
 	// 1: 多进程模式
@@ -32,7 +32,7 @@ type Server struct {
 	WriteTimeout time.Duration
 }
 
-var ServerCnf = &Server{}
+var server Server
 
 // Log 日志配置
 type Log struct {
@@ -52,7 +52,7 @@ type Log struct {
 	LogLevel string
 }
 
-var LogCnf = &Log{}
+var log Log
 
 // Database 数据库配置
 type Database struct {
@@ -66,7 +66,7 @@ type Database struct {
 	TablePrefix string
 }
 
-var DatabaseCnf = &Database{}
+var database Database
 
 // Redis Redis配置
 type Redis struct {
@@ -81,7 +81,7 @@ type Redis struct {
 	IdleTimeout time.Duration
 }
 
-var RedisCnf = &Redis{}
+var redis Redis
 
 type Config struct {
 	AppCnf      *App
@@ -91,44 +91,44 @@ type Config struct {
 	RedisCnf    *Redis
 }
 
-func NewConfig(p string) *Config {
+func NewConfig(configName string) *Config {
 	envCnf := os.Getenv("APP_CONF")
 	if envCnf == "" {
-		envCnf = p
+		envCnf = configName
 	}
 	fmt.Println("envCnf:", envCnf)
 	conf := GetConfig(envCnf)
 
-	if err := conf.Unmarshal(ServerCnf); err != nil {
+	if err := conf.UnmarshalKey("server", &server); err != nil {
 		panic(err)
 	}
-	if err := conf.Unmarshal(AppCnf); err != nil {
+	if err := conf.UnmarshalKey("app", &app); err != nil {
 		panic(err)
 	}
-	if err := conf.Unmarshal(LogCnf); err != nil {
+	if err := conf.UnmarshalKey("log", &log); err != nil {
 		panic(err)
 	}
-	if err := conf.Unmarshal(DatabaseCnf); err != nil {
+	if err := conf.UnmarshalKey("database", &database); err != nil {
 		panic(err)
 	}
-	if err := conf.Unmarshal(RedisCnf); err != nil {
+	if err := conf.UnmarshalKey("redis", &redis); err != nil {
 		panic(err)
 	}
 
 	return &Config{
-		AppCnf:      AppCnf,
-		ServerCnf:   ServerCnf,
-		LogCnf:      LogCnf,
-		DatabaseCnf: DatabaseCnf,
-		RedisCnf:    RedisCnf,
+		AppCnf:      &app,
+		ServerCnf:   &server,
+		LogCnf:      &log,
+		DatabaseCnf: &database,
+		RedisCnf:    &redis,
 	}
 }
 
-func GetConfig(path string) *viper.Viper {
+func GetConfig(configName string) *viper.Viper {
 	var conf = viper.New()
 	conf.SetConfigType("yaml")
-	conf.AddConfigPath(".")
-	conf.SetConfigName(path)
+	conf.AddConfigPath("./config")
+	conf.SetConfigName(configName)
 	if err := conf.ReadInConfig(); err != nil {
 		panic(err)
 	}

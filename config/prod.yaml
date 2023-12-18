@@ -4,7 +4,7 @@ app:
   appSecret: 123456
   appKey: 123456
 server:
-  port: 8000
+  port: 8080
   runMode: debug
   readTimeout: 1000
   writeTimeout: 1000
@@ -20,14 +20,14 @@ log:
 database:
   type: mysql
   host: 127.0.0.1
-  port: 3380
+  port: 3306
+  dbname: syd_wms
   user: root
   password: 123456
-  dbname: user
   charset: utf8mb4
-  tablePrefix: user_
+  tablePrefix: ""
 redis:
-  host: 127.0.0.1:6350
+  host: 127.0.0.1:6379
   password: ""
   db: 0
   maxIdle: 10

@@ -13,10 +13,10 @@ type UserHandler interface {
 }
 type userHandler struct {
 	*Handler
-	userService *service.UserService
+	userService service.UserService
 }
 
-func NewUserHandler(handler *Handler, userService *service.UserService) UserHandler {
+func NewUserHandler(handler *Handler, userService service.UserService) UserHandler {
 	return &userHandler{
 		Handler:     handler,
 		userService: userService,
@@ -25,12 +25,13 @@ func NewUserHandler(handler *Handler, userService *service.UserService) UserHand
 
 func (u userHandler) CreateUser(ctx *fiber.Ctx) error {
 	//TODO implement me
-	panic("implement me")
+	return ctx.SendString("CreateUser")
 }
 
 func (u userHandler) GetUser(ctx *fiber.Ctx) error {
 	//TODO implement me
-	panic("implement me")
+	u.userService.GetList(ctx)
+	return ctx.SendString("Hello, World! GetUser")
 }
 
 func (u userHandler) UpdateUser(ctx *fiber.Ctx) error {

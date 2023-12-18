@@ -17,6 +17,7 @@ func NewFiberServer(app *fiber.App) *FiberServer {
 
 func (f *FiberServer) Start(port int) error {
 	// @todo: add to env vars
+	fmt.Println("Starting server on port " + fmt.Sprintf("%d", port))
 	if err := f.App.Listen(":" + fmt.Sprintf("%d", port)); err != nil {
 		return err
 	}
