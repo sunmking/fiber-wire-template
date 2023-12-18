@@ -1,0 +1,35 @@
+app:
+  jwtSecret: 123456
+  jwtExpire: 1000
+  appSecret: 123456
+  appKey: 123456
+server:
+  port: 8000
+  runMode: debug
+  readTimeout: 1000
+  writeTimeout: 1000
+log:
+  logLevel: debug
+  logEncoding: console
+  logSavePath: "./storage/logs/"
+  logFileName: "server.log"
+  maxBackups: 30
+  maxAge: 7
+  maxSize: 1024
+  compress: true
+database:
+  type: mysql
+  host: 127.0.0.1
+  port: 3380
+  user: root
+  password: 123456
+  dbname: user
+  charset: utf8mb4
+  tablePrefix: user_
+redis:
+  host: 127.0.0.1:6350
+  password: ""
+  db: 0
+  maxIdle: 10
+  maxActive: 10
+  idleTimeout: 1000
