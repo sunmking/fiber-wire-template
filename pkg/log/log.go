@@ -29,7 +29,7 @@ func NewLog(conf *config.Config) *Logger {
 
 func initZap(conf *config.Config) *Logger {
 	// log address "out.log" User-defined
-	lp := conf.LogCnf.LogSavePath
+	lp := conf.LogCnf.LogSavePath + "/" + conf.LogCnf.LogFileName
 	lv := conf.LogCnf.LogLevel
 	var level zapcore.Level
 	//debug<info<warn<error<fatal<panic
