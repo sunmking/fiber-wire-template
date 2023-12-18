@@ -30,6 +30,7 @@ func SetupRoutes(
 		return c.SendString("pong")
 	})
 	ser.App.Get("/user", userHandler.GetUser)
+	ser.App.Get("/users", userHandler.GetUserList)
 
 	return ser
 }

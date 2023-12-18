@@ -48,14 +48,16 @@ func NewDb(conf *config.Config, logger *log.Logger) *dbx.DB {
 	}
 	db.QueryLogFunc = logDBQuery(logger)
 	db.ExecLogFunc = logDBExec(logger)
-	defer func() {
-		if err := db.Close(); err != nil {
-			logger.Error(err.Error())
-		}
-	}()
+
 	sqlDb = db
 
 	return db
+}
+func CloseDb() {
+	err := sqlDb.Close()
+	if err != nil {
+		return
+	}
 }
 
 // New returns a new DB connection that wraps the given dbx.DB instance.

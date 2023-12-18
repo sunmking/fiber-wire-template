@@ -1,7 +1,7 @@
 package table
 
 const (
-	TbaUser        string = "tba_user"
+	TbaUser        string = "tb_auth_user"
 	TbaGroup       string = "tba_group"
 	TbaRule        string = "tba_rule"
 	TbaUserGroup   string = "tba_user_group"

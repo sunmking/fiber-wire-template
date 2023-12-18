@@ -8,12 +8,27 @@ import (
 type UserHandler interface {
 	CreateUser(ctx *fiber.Ctx) error
 	GetUser(ctx *fiber.Ctx) error
+	GetUserList(ctx *fiber.Ctx) error
 	UpdateUser(ctx *fiber.Ctx) error
 	DeleteUser(ctx *fiber.Ctx) error
 }
 type userHandler struct {
 	*Handler
 	userService service.UserService
+}
+
+func (u userHandler) GetUserList(ctx *fiber.Ctx) error {
+	//TODO implement me
+	users := u.userService.GetList(ctx)
+	if users != nil {
+		return ctx.Status(fiber.StatusInternalServerError).JSON(fiber.Map{
+			"message": users.Error(),
+		})
+	} else {
+		return ctx.Status(fiber.StatusOK).JSON(fiber.Map{
+			"users": users,
+		})
+	}
 }
 
 func NewUserHandler(handler *Handler, userService service.UserService) UserHandler {
@@ -30,7 +45,6 @@ func (u userHandler) CreateUser(ctx *fiber.Ctx) error {
 
 func (u userHandler) GetUser(ctx *fiber.Ctx) error {
 	//TODO implement me
-	u.userService.GetList(ctx)
 	return ctx.SendString("Hello, World! GetUser")
 }
 

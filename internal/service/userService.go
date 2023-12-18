@@ -36,8 +36,11 @@ func (u userService) Update(ctx *fiber.Ctx) error {
 }
 
 func (u userService) GetList(ctx *fiber.Ctx) error {
-	//TODO implement me
-	panic("implement me")
+	if users, err := u.userRepo.GetList(ctx); err != nil {
+		return err
+	} else {
+		return ctx.JSON(users)
+	}
 }
 
 func (u userService) GetOne(ctx *fiber.Ctx) error {
