@@ -17,6 +17,7 @@ type contextKey int
 const (
 	requestIDKey contextKey = iota
 	correlationIDKey
+	logTmFmtWithMS = "2006-01-02 15:04:05.000000000"
 )
 
 type Logger struct {
@@ -52,7 +53,19 @@ func initZap(conf *config.Config) *Logger {
 		MaxAge:     conf.LogCnf.MaxAge,     // Maximum number of days the file can be saved
 		Compress:   conf.LogCnf.Compress,   // Compression or not
 	}
+	// 自定义时间输出格式
+	customTimeEncoder := func(t time.Time, enc zapcore.PrimitiveArrayEncoder) {
+		enc.AppendString("[" + t.Format(logTmFmtWithMS) + "]")
+	}
+	// 自定义日志级别显示
+	customLevelEncoder := func(level zapcore.Level, enc zapcore.PrimitiveArrayEncoder) {
+		enc.AppendString("[" + level.CapitalString() + "]")
+	}
 
+	// 自定义文件：行号输出项
+	customCallerEncoder := func(caller zapcore.EntryCaller, enc zapcore.PrimitiveArrayEncoder) {
+		enc.AppendString("[" + caller.TrimmedPath() + "]")
+	}
 	var encoder zapcore.Encoder
 	if conf.LogCnf.LogEncoding == "console" {
 		encoder = zapcore.NewConsoleEncoder(zapcore.EncoderConfig{
@@ -63,10 +76,10 @@ func initZap(conf *config.Config) *Logger {
 			MessageKey:     "msg",
 			StacktraceKey:  "stacktrace",
 			LineEnding:     zapcore.DefaultLineEnding,
-			EncodeLevel:    zapcore.LowercaseColorLevelEncoder,
-			EncodeTime:     timeEncoder,
+			EncodeLevel:    customLevelEncoder,
+			EncodeTime:     customTimeEncoder,
 			EncodeDuration: zapcore.SecondsDurationEncoder,
-			EncodeCaller:   zapcore.FullCallerEncoder,
+			EncodeCaller:   customCallerEncoder,
 		})
 	} else {
 		encoder = zapcore.NewJSONEncoder(zapcore.EncoderConfig{
@@ -78,10 +91,10 @@ func initZap(conf *config.Config) *Logger {
 			MessageKey:     "msg",
 			StacktraceKey:  "stacktrace",
 			LineEnding:     zapcore.DefaultLineEnding,
-			EncodeLevel:    zapcore.LowercaseLevelEncoder,
-			EncodeTime:     zapcore.EpochTimeEncoder,
+			EncodeLevel:    customLevelEncoder,
+			EncodeTime:     customTimeEncoder,
 			EncodeDuration: zapcore.SecondsDurationEncoder,
-			EncodeCaller:   zapcore.ShortCallerEncoder,
+			EncodeCaller:   customCallerEncoder,
 		})
 	}
 	core := zapcore.NewCore(
@@ -94,11 +107,6 @@ func initZap(conf *config.Config) *Logger {
 	}
 	return &Logger{zap.New(core, zap.AddCaller(), zap.AddStacktrace(zap.ErrorLevel))}
 
-}
-
-func timeEncoder(t time.Time, enc zapcore.PrimitiveArrayEncoder) {
-	//enc.AppendString(t.Format("2006-01-02 15:04:05"))
-	enc.AppendString(t.Format("2006-01-02 15:04:05.000000000"))
 }
 
 // With returns a logger based off the root logger and decorates it with the given context and arguments.
@@ -137,11 +145,11 @@ func WithRequest(ctx context.Context, req *fiber.Ctx) context.Context {
 }
 
 // getCorrelationID extracts the correlation ID from the HTTP request
-func getCorrelationID(c *fiber.Ctx) string {
-	return c.Get("X-")
+func getCorrelationID(c *fiber.Ctx) interface{} {
+	return c.Context().Value("requestid")
 }
 
 // getRequestID extracts the correlation ID from the HTTP request
 func getRequestID(c *fiber.Ctx) string {
-	return c.Get(fiber.HeaderXRequestID)
+	return string(c.Context().Request.Header.Peek("X-Request-ID"))
 }

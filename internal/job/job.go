@@ -13,7 +13,8 @@ import (
 type Job struct {
 	log       *log.Logger
 	scheduler gocron.Scheduler
-	jobTask   task.JobTask
+	// 任务
+	jobTask task.JobTask
 }
 
 func NewJob(logger *log.Logger, jobTask task.JobTask) *Job {

@@ -1500,3 +1500,200 @@ runtime.main
 2023-12-19 16:12:57.000996000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
 2023-12-19 16:12:57.002212900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
 2023-12-19 16:12:58.011885200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+[2023-12-19 16:26:35.005]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:36.004]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:36.008]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "2", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:26:37.005]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:38.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:39.008]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:39.008]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:26:40.005]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:41.000]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:42.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:42.013]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:26:43.015]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:44.015]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:45.011]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:45.012]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:26:46.005]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:47.000]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:48.012]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:48.013]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:26:49.011]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:50.008]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:51.003]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:51.005]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:26:52.003]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:53.002]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:54.002]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:54.002]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:26:55.003]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:56.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:57.012]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:57.013]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:26:58.000]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:26:59.004]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:00.004]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:00.006]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:01.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:02.010]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:03.007]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:03.009]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:04.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:05.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:06.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:06.013]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:07.007]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:08.004]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:09.007]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:09.008]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:10.003]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:11.000]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:12.015]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:12.015]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:13.012]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:14.007]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:15.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:15.010]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:16.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:17.007]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:18.004]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:18.006]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:19.008]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:20.014]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:21.012]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:21.014]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:22.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:23.003]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:24.000]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:24.001]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:25.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:26.011]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:27.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:27.010]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:28.006]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:29.006]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:30.010]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:30.011]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:31.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:32.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:33.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:33.010]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:34.004]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:35.014]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:36.012]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:36.013]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:37.005]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:38.002]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:39.006]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:39.006]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:40.011]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:41.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:42.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:42.002]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:43.015]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:44.012]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:45.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:45.010]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:46.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:47.006]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:48.003]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:48.004]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:49.002]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:50.002]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:51.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:51.014]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:52.011]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:53.005]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:54.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:54.002]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:55.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:56.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:57.014]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:57.015]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:27:58.008]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:27:59.005]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:00.002]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:00.005]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "2", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:01.014]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:02.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:03.004]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:03.005]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:04.006]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:05.014]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:06.015]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:06.016]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:07.002]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:08.012]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:09.007]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:09.009]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:10.015]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:11.014]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:12.010]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:12.012]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:13.005]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:14.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:15.011]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:15.012]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:16.011]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:17.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:18.011]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:18.013]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:19.005]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:20.000]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:21.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:21.015]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:22.007]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:23.003]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:24.014]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:24.015]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:25.010]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:26.004]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:27.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:27.014]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:28.012]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:29.010]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:30.006]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:30.008]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:31.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:32.004]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:33.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:33.014]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:34.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:35.002]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:36.013]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:36.013]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:37.010]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:38.004]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:39.015]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:39.016]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:40.012]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:41.003]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:42.010]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:42.011]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:43.006]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:44.006]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:45.003]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:45.006]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:46.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:47.009]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:48.007]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:48.009]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:49.003]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:50.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:51.003]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:51.005]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:52.002]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:53.000]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:54.002]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:54.004]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:55.011]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:56.008]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:57.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:57.004]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:28:58.011]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:28:59.005]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:29:00.000]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:29:00.001]	[INFO]	[ozzodb/ozzodb.go:95]	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+[2023-12-19 16:29:01.001]	[INFO]	[job/job.go:41]	I'm a Task2.
+[2023-12-19 16:29:02.003]	[INFO]	[job/job.go:41]	I'm a Task2.

@@ -94,7 +94,7 @@ func logDBQuery(logger *log.Logger) dbx.QueryLogFunc {
 		if err == nil {
 			logger.With(ctx, zap.String("duration", strconv.FormatInt(t.Milliseconds(), 10)), zap.String("sql", sql)).Info("DB query successful")
 		} else {
-			logger.With(ctx, zap.String("sql", sql)).Error("DB query error: ${err}")
+			logger.With(ctx, zap.String("sql", sql)).Error("DB query error:", zap.Error(err))
 		}
 	}
 }
@@ -105,7 +105,7 @@ func logDBExec(logger *log.Logger) dbx.ExecLogFunc {
 		if err == nil {
 			logger.With(ctx, zap.String("duration", strconv.FormatInt(t.Milliseconds(), 10)), zap.String("sql", sql)).Info("DB execution successful")
 		} else {
-			logger.With(ctx, zap.String("sql", sql)).Error("DB execution error: %err")
+			logger.With(ctx, zap.String("sql", sql)).Error("DB execution error:", zap.Error(err))
 		}
 	}
 }

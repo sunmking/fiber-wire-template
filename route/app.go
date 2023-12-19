@@ -5,6 +5,8 @@ import (
 	"fiber-wire-template/pkg/server"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"
+	"github.com/gofiber/fiber/v2/middleware/requestid"
+	"github.com/gofiber/fiber/v2/utils"
 )
 
 func SetupRoutes(
@@ -19,8 +21,13 @@ func SetupRoutes(
 		}),
 	}
 
-	ser.App.Use(cors.New())
-	// logger
+	var ConfigDefault = requestid.Config{
+		Next:       nil,
+		Header:     fiber.HeaderXRequestID,
+		Generator:  utils.UUID,
+		ContextKey: "requestid",
+	}
+	ser.App.Use(requestid.New(ConfigDefault))
 	// cors
 	ser.App.Use(cors.New())
 	// static
