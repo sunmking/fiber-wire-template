@@ -28,7 +28,7 @@ func (u userRepository) Create(ctx *fiber.Ctx) error {
 func (u userRepository) GetList(ctx *fiber.Ctx) ([]struct{}, error) {
 	var users []struct{}
 	//TODO implement me
-	var q = u.db.Select("*").From(table.TbaUser).OrderBy("id DESC")
+	var q = u.Db.Select("*").From(table.TbaUser).OrderBy("id DESC")
 	err := q.All(&users)
 	if err != nil {
 		return nil, err

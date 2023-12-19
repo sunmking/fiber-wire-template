@@ -7,3 +7,1496 @@ main.main
 	D:/gowork/src/fiber-wire-template/cmd/app/main.go:15
 runtime.main
 	D:/gowork/pkg/mod/golang.org/toolchain@v0.0.1-go1.21.4.windows-amd64/src/runtime/proc.go:267
+2023-12-19 15:04:15.006707700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:18.012718800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:21.015552700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:24.012427400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:27.012668200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:30.006273700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:33.009986100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:36.012073100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:39.013284700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:42.006135600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:45.011777300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:48.006552700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:51.004377000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:54.014347700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:04:57.012207500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:00.003552400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:03.012224600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:06.014850100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:09.002990100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:12.010029500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:15.002390800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:18.002001200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:21.000063600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:24.004405400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:27.004700900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:30.009636800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:33.004917900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:36.005205400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:39.011220100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:05:42.004666900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:06:51.002345600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:06:54.006629700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:06:57.011091200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:00.003861200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:03.008533900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:06.000199600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:09.000966500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:12.010599400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:15.001421900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:18.014385800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:21.005916700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:24.007243600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:27.009540200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:30.013811300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:33.006888100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:36.012625200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:39.005359900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:42.009040900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:45.002164600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:48.007876200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:51.013956300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:54.001997800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:07:57.001498800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:00.005975400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:03.009520300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:06.011438700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:09.012142700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:12.002556600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:15.001645000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:18.014058900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:21.008819700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:24.000873400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:27.008827600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:30.005220600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:33.005340900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:36.008761200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:39.005454500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:42.007847100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:45.014360100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:48.015160400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:51.008533800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:54.008976900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:08:57.009853500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:00.004141900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:03.012015800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:06.012608100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:09.005567100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:12.002669800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:15.013139000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:18.002850600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:21.001292200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:24.015036100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:27.005382100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:30.012160600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:33.002343900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:36.006126500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:39.013115200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:42.013712100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:45.001725000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:48.015878100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:51.014920400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:54.000791900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:09:57.006637000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:00.012131500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:03.004627200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:06.012589200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:09.009506600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:12.002988100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:15.006663300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:18.000759700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:21.005937900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:24.007252700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:27.015612800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:30.011792000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:33.003413200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:36.011736800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:39.003635600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:42.011037600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:45.001025100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:48.002271600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:51.014750100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:54.003641500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:10:57.009887600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:00.013908300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:03.003886600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:06.012899100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:09.010477000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:12.015231900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:15.008300300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:18.010213000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:21.016074700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:24.005202500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:27.012366000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:30.008825100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:33.003482200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:36.003775200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:39.003535000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:42.008983300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:45.015417800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:48.015136000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:51.009115200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:54.012920100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:11:57.000652700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:00.001942800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:03.008440200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:06.008930800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:09.000949300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:12.008396300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:15.004727200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:18.003655900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:21.009181800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:24.002035800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:27.005492400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:30.012159200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:33.002570300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:36.007003000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:39.010230000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:42.006818500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:45.002792700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:48.003778900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:51.012796900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:54.005624900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:12:57.000764200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:00.015139900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:03.002922500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:06.011969200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:09.001643500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:12.015286500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:15.004091100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:18.003422200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:21.015329600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:24.013786100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:27.003277700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:30.015264800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:33.006097200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:36.004218600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:39.012890100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:42.013426700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:45.008752500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:48.002894800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:51.012663300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:54.011192500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:13:57.013615500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:00.003432600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:03.004646600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:06.007293500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:09.004523000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:12.014651000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:15.003066100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:18.009275900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:21.014807900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:24.013181800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:27.012968500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:30.002361200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:33.014314400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:36.008883900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:39.002695800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:42.014044300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:45.008779400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:48.011515700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:51.007091300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:54.013834300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:14:57.007710800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:00.001636300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:03.003362700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:06.004561800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:09.003490000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:12.012764000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:15.011640600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:18.005171900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:21.008994000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:24.001191800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:27.011287600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:30.012365100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:33.016244400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:36.004362400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:39.011241500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:42.014378100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:45.008963800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:48.010049000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:51.015163400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:54.008800000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:15:57.012775200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:00.000999400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:03.005082300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:06.012231000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:09.003674400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:12.005936000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:15.013279600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:18.002985900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:21.010629000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:24.014733400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:27.002752000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:30.006545200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:33.010399200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:36.003402300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:39.015411700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:42.011035400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:45.009371000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:48.014773000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:51.010397600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:54.002315700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:16:57.002965100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:00.015992200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:03.003538700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:06.007604600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:09.012748900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:12.006695900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:15.000566800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:18.010918100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:21.011331500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:24.012520900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:27.003829800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:30.006351500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:33.012043200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:36.012524300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:39.002126700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:42.013456500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:45.013941700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:48.015241000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:51.008209500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:54.013359900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:17:57.001047300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:00.007843300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:03.001099400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:06.004519200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:09.011021100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:12.001210400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:15.001770400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:18.004357300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:21.015746700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:24.002126400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:27.005567700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:30.005258200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:33.005463800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:36.000818200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:39.003520700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:42.013374600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:45.012880400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:48.014995600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:51.012245800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:54.008047000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:18:57.012935000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:00.011783400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:03.000893600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:06.014663000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:09.002109400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:12.011771000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:15.007349000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:18.015454100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:21.002505900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:24.009624400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:27.002851100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:30.004411900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:33.004807000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:36.011453900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:39.014313300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:42.009861300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:45.003514200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:48.009431600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:51.004605200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:54.003910200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:19:57.009765000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:00.001180100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:03.001448900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:06.009782700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:09.015454600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:12.011855500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:15.002717500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:18.009640300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:21.010347000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:24.004881800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:27.008217100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:30.014585700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:33.001187100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:36.008011700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:39.014307800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:42.014372000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:45.009411600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:48.000211500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:51.013018700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:54.010836300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:20:57.000842500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:00.011420900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:03.006151900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:06.006303800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:09.003643300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:12.003961700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:15.006407600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:18.013869600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:21.008721300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:24.003234000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:27.013440900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:30.012809400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:33.008679800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:36.015734000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:39.002703600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:42.010761700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:45.000417300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:48.011237800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:51.005036900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:54.011371900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:21:57.011337800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:00.010070700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:03.004963900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:06.012960800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:09.000372200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:12.007120700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:15.001440300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:18.010251900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:21.001174100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:24.008072100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:27.008050900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:30.012514800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:33.002912000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:36.011075200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:39.014666500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:42.003878400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:45.013465900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:48.005043500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:51.014621300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:54.000879100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:22:57.013093600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:00.006665700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:03.010418500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:06.014859000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:09.002215500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:12.006401700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:15.002753800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:18.014428200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:21.004756500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:24.007334000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:27.012804200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:30.009912100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:33.012734500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:36.011668300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:39.000617100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:42.004460100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:45.013720200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:48.001392400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:51.005263100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:54.002231600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:23:57.014547400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:00.010287200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:03.013480300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:06.012110300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:09.003942700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:12.012411800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:15.002382000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:18.005554200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:21.001032300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:24.001902400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:27.011465400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:30.007668500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:33.000721800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:36.004327000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:39.008578600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:42.007993500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:45.004242800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:48.003075000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:51.009482100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:54.012344400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:24:57.001681400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:00.013812000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:03.004538700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:06.000385100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:09.011526000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:12.002368900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:15.013125300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:18.011686900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:21.001947100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:24.014728800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:27.003958000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:30.010433700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:33.001826800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:36.006053500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:39.012163900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:42.006510400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:45.013556800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:48.010206400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:51.011795800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:54.010602700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:25:57.005967600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:00.003479000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:03.003157000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:06.011587700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:09.001427500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:12.007434000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:15.001117400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:18.002769200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:21.003882600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:24.011981000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:27.003906400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:30.014062400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:33.005184000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:36.005414000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:39.011451900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:42.010425700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:45.006732100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:48.008117200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:51.001008200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:54.000846000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:26:57.015703600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:00.007915300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:03.011012000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:06.003741700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:09.001031400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:12.010591400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:15.013336700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:18.006503500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:21.007121900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:24.015096800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:27.013876200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:30.003094900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:33.002495400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:36.009893100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:39.010974500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:42.013182100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:45.005695800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:48.004542400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:51.009883000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:54.000244300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:27:57.003874000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:00.013799900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:03.002573500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:06.002556200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:09.004384300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:12.005826800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:15.005111900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:18.004895000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:21.001461600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:24.012925300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:27.014141600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:30.004459100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:33.007414100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:36.015924600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:39.007996000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:42.015662800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:45.002571800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:48.008999800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:51.010819300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:54.004083400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:28:57.000899000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:00.014676000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:03.001490900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:06.005942800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:09.014372900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:12.001312000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:15.009502500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:18.007566200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:21.010909300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:24.008085800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:27.019241900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:30.007736700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:33.004973700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:36.012416300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:39.004686000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:42.000525900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:45.006579200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:48.014452500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:51.009732800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:54.003293700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:29:57.015991200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:00.005578300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:03.007963300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:06.003798100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:09.005995400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:12.001166600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:15.010356500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:18.013055700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:21.001040900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:24.006534400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:27.000718900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:30.001251100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:33.014497400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:36.014743400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:39.003858400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:42.018763400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:45.000752300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:48.013972600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:51.004556900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:54.008666900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:30:57.004833800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:00.001157800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:03.010639900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:06.010781600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:09.000433500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:12.014434200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:15.000264900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:18.003403100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:21.010867100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:24.010750600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:27.012282300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:30.005436100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:33.000757200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:36.006504500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:39.011716400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:42.003254300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:45.005253700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:48.004170200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:51.005903800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:54.009203900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:31:57.012339400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:00.004005700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:03.007935100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:06.001311100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:09.009504100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:12.004524500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:15.013051100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:18.010587800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:21.012550400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:24.006280400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:27.015310900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:30.014507100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:33.004514200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:36.014197200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:39.002813800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:42.000845500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:45.000897000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:48.015080000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:51.007634800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:54.009562400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:32:57.008714200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:00.005171500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:03.007617300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:06.006830700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:09.012628000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:12.012153400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:15.010518900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:18.000746000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:21.011599400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:24.013707900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:27.004920000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:30.001251400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:33.004080300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:36.017045900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:39.014378600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:42.005886500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:45.010780400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:48.005291600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:51.007319000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:54.004658200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:33:57.002621100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:00.003476400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:03.007043500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:06.013774200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:09.008340800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:12.004457600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:15.000958300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:18.001951900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:21.007093100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:24.007157000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:27.008331100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:30.009235400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:33.000373000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:36.006310400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:39.008636800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:42.014701900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:45.011702700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:48.005924900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:51.008615600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:54.005810800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:34:57.000463000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:00.009086800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:03.010602000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:06.000494000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:09.008264600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:12.000176300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:15.012061900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:18.002413700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:21.007752000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:24.004933200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:27.006065900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:30.006397500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:33.015596500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:36.008924800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:39.000711500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:42.004006500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:45.002252400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:48.012712800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:51.004914300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:54.003893900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:35:57.014771900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:00.011925100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:03.000312800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:06.009421800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:09.003299200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:12.011286800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:15.002596100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:18.014691300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:21.002565900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:24.011062800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:27.006196800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:30.013317700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:33.010072400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:36.005561800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:39.008405700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:42.001953300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:45.009306600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:48.000282300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:51.005291700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:54.011338900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:36:57.013631600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:00.010603700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:03.012254000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:06.013880700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:09.013603800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:12.003456800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:15.005565300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:18.007912900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:21.008164300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:24.013491300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:27.008814300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:30.001841600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:33.001632300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:36.010221700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:39.002499500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:42.009095400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:45.004620900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:48.003837700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:51.009433000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:54.010719900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:37:57.002910800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:00.009494800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:03.006613300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:06.005145200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:09.008108400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:12.006849200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:15.007320100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:18.013250800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:21.014067300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:24.001094100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:27.004075300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:30.012244400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:33.008434200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:36.014236900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:39.009012900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:42.002835200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:45.013971300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:48.002935400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:51.003433300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:54.014291000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:38:57.007857000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:00.009767900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:03.002917700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:06.002663800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:09.005777500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:12.010577800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:15.009367700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:18.012619500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:21.014645100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:24.009175100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:27.014088100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:30.013638100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:33.015559600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:36.013565000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:39.001804500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:42.003931200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:45.009130200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:48.005634200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:51.012743700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:54.005879400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:39:57.007139900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:00.012628300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:03.008440600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:06.007297500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:09.011473900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:12.014171000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:15.004971600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:18.002052900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:21.003341300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:24.006039700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:27.011767000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:30.012838800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:33.004718500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:36.014286200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:39.014651800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:42.006868300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:45.015720900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:48.001901000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:51.014820500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:54.004084900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:40:57.010861000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:00.006459200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:03.014115500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:06.002552000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:09.009507900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:12.000327300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:15.010370700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:18.002362500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:21.011174800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:24.014477600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:27.006141500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:30.003499600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:33.003210300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:36.011550900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:39.012783500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:42.008230200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:45.012565800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:48.003634600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:51.004310300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:54.000815900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:41:57.010562600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:00.002394700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:03.016906200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:06.014255100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:09.002042400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:12.014964300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:15.005798800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:18.010023000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:21.009638600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:24.014156700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:27.004569000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:30.001571600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:33.005878200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:36.011291900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:39.003946800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:42.013009000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:45.002919600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:48.011933500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:51.007037800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:54.002176900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:42:57.014559100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:43:00.009435800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:29	I'm a Task1.
+2023-12-19 15:44:29.001218200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:30.004589700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:30.004589700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:31	I'm a Task1.
+2023-12-19 15:44:31.003564700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:32.012515000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:33.000104100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:33.000104100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:31	I'm a Task1.
+2023-12-19 15:44:34.007328300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:35.004561400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:36.003135500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:36.003135500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:31	I'm a Task1.
+2023-12-19 15:44:37.001565100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:38.014924300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:39.014866600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:31	I'm a Task1.
+2023-12-19 15:44:39.014866600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:40.013763800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:41.000556400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:42.008691400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:42.008691400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:31	I'm a Task1.
+2023-12-19 15:44:43.005759000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:44.004851600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:45.014779100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:45.014779100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:31	I'm a Task1.
+2023-12-19 15:44:46.011935400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:47.012823600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:48.008498900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:31	I'm a Task1.
+2023-12-19 15:44:48.008498900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:49.004476300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:50.008364700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:51.010515200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:31	I'm a Task1.
+2023-12-19 15:44:51.010515200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:52.007991000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:53.012810700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:54.010087200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:54.010087200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:31	I'm a Task1.
+2023-12-19 15:44:55.000277100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:56.002527900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:57.015006900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:57.015006900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:31	I'm a Task1.
+2023-12-19 15:44:58.012080000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:44:59.012361800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:45:00.010645000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:45:00.010645000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:31	I'm a Task1.
+2023-12-19 15:55:03.461986000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "19", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 15:55:03.487912800	[31merror[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:35	Task1 error	{"error": "gocron: NewJob: Task.Function must be of kind reflect.Func"}
+fiber-wire-template/internal/job.(*Job).Run
+	E:/gowork/src/fiber-wire-template/internal/job/job.go:35
+main.main
+	E:/gowork/src/fiber-wire-template/cmd/job/main.go:22
+runtime.main
+	C:/Program Files/Go/src/runtime/proc.go:267
+2023-12-19 15:55:04.004975700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:05.004609000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:06.003834300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:07.001079300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:08.011602800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:09.009139000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:10.007903000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:11.004485200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:12.002230400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:13.014711100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:14.009848400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:15.007353000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:16.006745100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:17.008610600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:18.002479900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:19.014610100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:20.012513400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:21.003723600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:22.001681900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:23.012678400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:24.010840600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:25.004444100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:26.001826500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:27.013638000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:28.008727500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:29.010341700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:30.011284200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:31.002175400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:32.001487100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:33.002085500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:34.003551500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:35.011497900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:36.011751500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:37.008191100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:38.001718100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:39.014880900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:40.014507800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:41.002233500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:42.001593500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:43.013208600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:44.010582200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:45.010165100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:46.004688200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:47.009568500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:48.006673900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:49.014080800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:50.008331400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:51.001521700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:52.013693100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:53.008972600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:54.004711900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:55.002670100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:56.011688800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:57.008940200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:58.007811000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:55:59.005359900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:00.004221400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:01.001665200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:02.008953600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:03.002629600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:04.011917100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:05.003531500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:06.010602600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:07.008346400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:08.008836300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:09.009245100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:10.004136200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:11.015319800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:12.014537200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:13.006337600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:14.003180200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:56:59.004323100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:00.005063800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:00.009573000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "4", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 15:57:01.007862100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:02.004274800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:03.001048100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:03.001048100	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 15:57:04.013479900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:05.009483500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:06.009182300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:06.011109600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 15:57:07.013704700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:08.003456200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:09.004497000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:09.005176800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 15:57:10.005391900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:11.007310100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:12.004822200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:12.006557800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 15:57:13.003075500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:14.003267600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:15.006826200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:15.007537000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 15:57:16.004546500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:17.003378700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:18.004308300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:18.004308300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 15:57:19.002774600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:20.012501000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:21.006726000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:21.006726000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 15:57:22.002994900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 15:57:23.000948900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:15.003810000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:15.008509800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "4", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:16.002290200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:17.003120800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:18.012885800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:18.013604000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:19.011251600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:20.005574800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:21.008308600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:21.008815200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:22.005033600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:23.002700400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:24.001907400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:24.003044500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:25.016307200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:26.001620400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:27.004017700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:27.005160700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:28.014727900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:29.011419600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:30.013172200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:30.013894300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:31.007048500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:32.003570900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:33.015714900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:33.016220000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:34.007450700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:35.003623000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:36.012955100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:36.013471200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:37.011124000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:38.009185700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:39.008278600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:39.009479200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:40.005924400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:41.012960200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:42.012472100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:42.013648700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:43.001784200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:44.010032700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:45.007582200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:45.008466300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:46.001405900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:47.014318100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:48.015159900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:48.016439500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:49.005164400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:50.001119200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:51.013810700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:51.015347300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:52.010867400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:53.004708600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:54.003405600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:54.004272400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:55.014877400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:56.010463500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:57.004518300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:57.005276000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:00:58.003391800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:00:59.013732800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:01:00.004843500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:01:00.006475500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:01:01.014882100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:01:02.012667800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:01:03.012091600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:01:03.012597900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user`"}
+2023-12-19 16:02:06.008177600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:06.018502800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "10", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:07.003456500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:08.000310200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:09.002335000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:09.004009800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:10.014183300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:11.013585600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:12.012703300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:12.013189700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:13.008078300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:14.009627900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:15.005357100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:15.006147700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:16.003233200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:17.001272400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:18.014251700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:18.016172900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:19.002128300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:20.011980300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:21.009145700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:21.009919000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:22.003923500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:23.002861100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:24.001146900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:24.002156300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:25.000374200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:26.013143100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:27.002764600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:27.003273200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:28.001640700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:29.010951900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:30.006174600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:30.006994600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:31.010785500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:32.012848700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:33.011001100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:33.012929600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:34.010658400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:35.007298900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:36.007193900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:36.008057200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:37.008115200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:38.003721100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:39.000530400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:39.001420200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:40.014570100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:41.013517600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:42.014944800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:42.014944800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:43.007508400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:44.009271300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:45.005681900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:45.007577800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:46.014971800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:47.000568400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:48.001673100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:48.002369900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:49.015634900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:50.010988900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:51.005485000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:51.006145100	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:52.006518000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:53.000781400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:54.014644900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:54.015260100	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:55.005691200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:56.000840900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:57.015790600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:57.016549100	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:02:58.004826800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:02:59.006871600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:00.001630600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:00.002295200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:01.008391500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:02.007506000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:03.001585200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:03.002191600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:04.010175600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:05.005991400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:06.001602200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:06.001602200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:07.011207100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:08.005440300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:09.003440700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:09.004867300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:10.001553200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:11.008398500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:12.001203700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:12.001203700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:13.015268800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:14.012026100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:15.003018200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:15.003950600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:16.003363600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:17.000979200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:18.009051200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:18.009051200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:19.007320600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:20.006270400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:21.007770300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:21.008308500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:22.004713000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:23.003115100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:24.002706900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:24.003308400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:25.014607400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:26.010388200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:27.005324300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:27.006233600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:28.005584400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:29.000867200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:30.012372900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:30.014037300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:31.001642900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:32.011771900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:33.006232700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:33.006232700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:34.002514700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:35.003895400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:36.014502300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:36.014502300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:37.014537400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:38.004983000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:39.001880400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:39.003454300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:40.014554100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:41.011752800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:42.007093900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:42.007708700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:43.006711300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:44.004263900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:45.012690000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:45.012690000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:46.008470800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:47.005981900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:48.002975900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:48.002975900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:49.001987800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:50.014045400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:51.012983400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:51.014565900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:52.009026200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:53.000461000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:54.010261400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:54.010937800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:55.012243800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:56.016297400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:57.015011600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:57.016785700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:03:58.006519300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:03:59.013563700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:00.013900800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:00.013900800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:04:01.011371900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:02.013972900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:03.015327000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:03.016248300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:04:04.012116500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:05.009943000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:06.008475200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:06.009276700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:04:07.002201200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:08.010966700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:09.011759300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:09.011759300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:04:10.009382600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:11.003969100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:12.013773100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:12.014438400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:04:13.013219200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:14.008406200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:15.004155100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:15.006150900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:04:16.000236600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:17.011455000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:18.014109600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:18.015008600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:04:19.004049600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:20.006217000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:21.001081500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:21.002095800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:04:22.004315700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:23.001387200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:24.002544500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:04:24.003444300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:05:33.001133900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:33.011812300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "10", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:05:34.014104800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:35.005190600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:36.013294900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:36.013812900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:05:37.013911400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:38.002797900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:39.015947900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:39.025380100	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "9", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:05:40.015339000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:41.014454200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:42.012109200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:42.013031600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:05:43.008287100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:44.006841100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:45.005714700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:45.005714700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:05:46.001202000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:47.012806700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:48.005633800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:48.006350500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:05:49.001157600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:50.013214800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:51.022019500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:51.022019500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:05:52.007259300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:53.000850800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:54.011599300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:05:54.011599300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:05:55.011110300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:47.014579900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:48.013141700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:48.025293500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "12", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:07:49.008330400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:50.006629300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:51.014317400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:51.015013200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:07:52.011324800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:53.007155400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:54.003132400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:54.004058800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:07:55.015957000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:56.014057400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:57.013328000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:57.014905100	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:07:58.007425900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:07:59.003095100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:00.014622400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:00.015526500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:08:01.011398000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:02.005167100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:03.000755100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:03.001449100	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:08:04.014901200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:05.015041600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:06.000270100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:06.001092000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:08:07.010579200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:08.005325100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:09.005451700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:09.005451700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:08:10.000883200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:11.006083800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:12.004269600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:12.005162500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:08:13.012294600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:14.008549600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:15.005345600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:15.005345600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:08:16.004824600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:48.012779600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:48.025222600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "12", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:08:49.009115300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:50.007478500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:51.006988900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:51.007923400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:08:52.003913100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:53.008253900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:54.000050400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:54.001954500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:08:55.014066800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:56.014241800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:57.010554200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:57.012232300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:08:58.010099700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:08:59.007261500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:00.006739500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:00.007669900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `username` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:18.013654100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:18.017862300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "4", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:19.009125800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:20.007008500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:21.007172500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:21.007172500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:22.003848100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:23.003646400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:24.000467000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:24.001060900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:25.003499900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:26.003750500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:27.000106200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:27.001073900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:28.008549300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:29.003060000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:30.012807000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:30.012807000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:31.008521500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:32.005955100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:33.004785800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:33.005492300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:34.011423200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:35.009723800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:36.001515500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:36.002516400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:37.011795700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:38.004296600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:39.011846700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:39.012523500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:40.007689700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:41.003094900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:42.001411700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:42.002019700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:43.014790400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:44.009506100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:45.002863300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:45.004367600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:46.013121200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:47.010472700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:48.004181200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:48.004980700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:49.009879100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:50.000543100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:51.007949700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:51.007949700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:52.014279300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:53.008421700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:54.008275800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:54.010274300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:55.006224700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:56.014638000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:57.009577800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:57.010575200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:09:58.006835300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:09:59.005415000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:00.006149900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:00.007293200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:01.001572200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:02.000232000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:03.013651800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:03.014666800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:04.007301000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:05.003332900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:06.001795400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:06.002601700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:07.000623000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:08.011839800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:09.009692300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:09.011401200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:10.009124500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:11.008247100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:12.002695300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:12.003254500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:13.002096500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:14.014428000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:15.009867400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:15.010398500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:16.007771900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:17.005539300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:18.013918500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:18.015508700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:19.011854500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:20.004894400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:21.002251100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:21.003855700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:22.014153900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:23.010672900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:24.014040700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:24.015788600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:25.006844400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:26.001569600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:27.012408500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:27.013342100	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:28.003947400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:29.012765700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:30.009186200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:30.009186200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:31.012761500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:32.010179600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:33.005034100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:33.006258400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:34.002725300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:35.012536400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:36.013301500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:36.013988300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:37.004740200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:38.012230800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:39.007831700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:39.007831700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:40.005129200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:41.006822100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:42.006902300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:42.007835700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:43.001309400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:44.012620700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:45.004821900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:45.005338400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:46.001619700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:47.014267100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:48.016427600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:48.017018700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT `id`, `name` FROM `tb_auth_user` ORDER BY `id`"}
+2023-12-19 16:10:49.004503800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:57.006037000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:57.009875400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "3", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:10:58.004323600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:10:59.013798900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:00.010591400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:00.012489700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:01.009401300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:02.007846100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:03.002461800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:03.002969500	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:04.000860600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:05.011207600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:06.008769900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:06.009306200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:07.003249300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:08.004186100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:09.003787100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:09.004293100	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:10.001677400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:11.003702900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:12.007233200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:12.009214400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:13.002977700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:14.001005100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:15.012014700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:15.013587400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:16.014345500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:17.013148400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:18.009773200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:18.010331000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:19.008799200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:20.003512100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:21.012864600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:21.013373700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:22.011286200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:29.005157900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:30.003890300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:30.005889900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:31.014824900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:32.011428600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:33.009320100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:33.010123400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:34.008414800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:35.007109800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:36.004643700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:36.005213000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:37.002058700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:38.013144900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:39.008587400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:39.009104200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:40.007390700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:41.003123100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:42.015009100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:42.016319400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:43.009740100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:44.009927000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:45.007914500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:45.008423700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:46.010748800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:47.012668000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:48.009295600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:48.010481800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:49.002523200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:50.000970900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:51.011658200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:51.012165300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:11:52.006817900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:11:53.002914500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:20.014385400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:21.000044800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:21.010206600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "9", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:22.009008800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:23.003209000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:24.000203400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:24.002111400	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:25.013308400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:26.013540700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:27.004334600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:27.006664800	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "2", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:28.001192500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:29.007388700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:30.002328100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:30.002832300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:31.008131600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:32.002244900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:33.008790600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:33.010258300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:34.004604000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:35.002004100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:36.005550000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:36.006054200	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:37.004096100	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:38.001535500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:39.002402800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:39.004480700	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:40.012967500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:41.013722900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:42.007989700	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:42.010436600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "2", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:43.006159800	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:44.000871300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:45.014478300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:45.015810000	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:46.011974600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:47.008028500	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:48.005190300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:48.006353300	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:49.004143300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:50.004363300	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:51.014894600	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:51.016056600	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:52.000447900	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:53.014095400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:54.009274200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:54.009963900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "0", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:55.004305400	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:56.003071000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:57.000996000	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.
+2023-12-19 16:12:57.002212900	[34minfo[0m	E:/gowork/src/fiber-wire-template/pkg/ozzodb/ozzodb.go:95	DB query successful	{"duration": "1", "sql": "SELECT * FROM `tb_auth_access_log` ORDER BY `id`"}
+2023-12-19 16:12:58.011885200	[34minfo[0m	E:/gowork/src/fiber-wire-template/internal/job/job.go:40	I'm a Task2.

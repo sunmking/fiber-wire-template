@@ -7,15 +7,15 @@ import (
 )
 
 type Repository struct {
-	db     *dbx.DB
-	rdb    *gredis.Redis
-	logger *log.Logger
+	Db     *dbx.DB
+	Rdb    *gredis.Redis
+	Logger *log.Logger
 }
 
 func NewRepository(db *dbx.DB, rdb *gredis.Redis, logger *log.Logger) *Repository {
 	return &Repository{
-		db:     db,
-		rdb:    rdb,
-		logger: logger,
+		Db:     db,
+		Rdb:    rdb,
+		Logger: logger,
 	}
 }

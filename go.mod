@@ -3,6 +3,7 @@ module fiber-wire-template
 go 1.21.4
 
 require (
+	github.com/go-co-op/gocron/v2 v2.0.3
 	github.com/go-ozzo/ozzo-dbx v1.5.0
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/gofiber/fiber/v2 v2.51.0
@@ -21,7 +22,6 @@ require (
 require (
 	github.com/andybalholm/brotli v1.0.6 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
-	github.com/go-co-op/gocron/v2 v2.0.3 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/jonboulle/clockwork v0.4.0 // indirect
 	github.com/klauspost/compress v1.17.4 // indirect

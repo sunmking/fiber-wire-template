@@ -6,4 +6,5 @@ const (
 	TbaRule        string = "tba_rule"
 	TbaUserGroup   string = "tba_user_group"
 	TbaGroupAccess string = "tba_group_access"
+	TbaAccessLog   string = "tb_auth_access_log"
 )
