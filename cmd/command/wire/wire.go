@@ -4,8 +4,8 @@
 package wire
 
 import (
-	"fiber-wire-template/internal/job"
-	"fiber-wire-template/internal/job/task"
+	"fiber-wire-template/internal/command"
+	"fiber-wire-template/internal/command/task"
 	"fiber-wire-template/internal/repository"
 	"fiber-wire-template/pkg/config"
 	"fiber-wire-template/pkg/gredis"
@@ -15,7 +15,7 @@ import (
 )
 
 var jobSet = wire.NewSet(
-	job.NewJob,
+	command.NewCommand,
 )
 var RepositorySet = wire.NewSet(
 	ozzodb.NewDb,
@@ -23,11 +23,11 @@ var RepositorySet = wire.NewSet(
 	repository.NewRepository,
 )
 
-func NewApp(logger *log.Logger, config *config.Config) (*job.Job, error) {
+func NewApp(logger *log.Logger, config *config.Config) (*command.Command, error) {
 	panic(wire.Build(
 		RepositorySet,
-		task.NewJobTask,
+		task.NewDemoTask,
 		jobSet,
 	))
-	return &job.Job{}, nil
+	return &command.Command{}, nil
 }

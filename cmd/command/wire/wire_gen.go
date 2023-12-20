@@ -7,8 +7,8 @@
 package wire
 
 import (
-	"fiber-wire-template/internal/job"
-	"fiber-wire-template/internal/job/task"
+	"fiber-wire-template/internal/command"
+	"fiber-wire-template/internal/command/task"
 	"fiber-wire-template/internal/repository"
 	"fiber-wire-template/pkg/config"
 	"fiber-wire-template/pkg/gredis"
@@ -19,17 +19,17 @@ import (
 
 // Injectors from wire.go:
 
-func NewApp(logger *log.Logger, config2 *config.Config) (*job.Job, error) {
+func NewApp(logger *log.Logger, config2 *config.Config) (*command.Command, error) {
 	db := ozzodb.NewDb(config2, logger)
 	redis := gredis.NewRedis(config2)
 	repositoryRepository := repository.NewRepository(db, redis, logger)
-	jobTask := task.NewJobTask(repositoryRepository)
-	jobJob := job.NewJob(logger, jobTask)
-	return jobJob, nil
+	demoTask := task.NewDemoTask(repositoryRepository)
+	commandCommand := command.NewCommand(logger, demoTask)
+	return commandCommand, nil
 }
 
 // wire.go:
 
-var jobSet = wire.NewSet(job.NewJob)
+var jobSet = wire.NewSet(command.NewCommand)
 
 var RepositorySet = wire.NewSet(ozzodb.NewDb, gredis.NewRedis, repository.NewRepository)

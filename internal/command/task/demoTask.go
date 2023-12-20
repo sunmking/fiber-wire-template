@@ -9,18 +9,18 @@ import (
 	"go.uber.org/zap"
 )
 
-type jobTask struct {
+type demoTask struct {
 	*repository.Repository
 }
-type JobTask interface {
+type DemoTask interface {
 	Run()
 }
 
-func NewJobTask(r *repository.Repository) JobTask {
-	return &jobTask{r}
+func NewDemoTask(r *repository.Repository) DemoTask {
+	return &demoTask{r}
 }
 
-func (u *jobTask) Run() {
+func (u *demoTask) Run() {
 	q := u.Db.Select().
 		From(table.TbaUser).
 		OrderBy("id")
