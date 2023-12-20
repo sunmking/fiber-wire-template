@@ -9,6 +9,7 @@ import (
 	"fiber-wire-template/internal/service"
 	"fiber-wire-template/pkg/config"
 	"fiber-wire-template/pkg/gredis"
+	"fiber-wire-template/pkg/jwt"
 	"fiber-wire-template/pkg/log"
 	"fiber-wire-template/pkg/ozzodb"
 	"fiber-wire-template/pkg/server"
@@ -41,6 +42,7 @@ func NewApp(*config.Config, *log.Logger) (*server.FiberServer, error) {
 		HandlerSet,
 		route.SetupRoutes,
 		sid.NewSid,
+		jwt.NewJwt,
 	))
 	return &server.FiberServer{}, nil
 }

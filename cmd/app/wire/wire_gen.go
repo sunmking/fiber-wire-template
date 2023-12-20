@@ -12,6 +12,7 @@ import (
 	"fiber-wire-template/internal/service"
 	"fiber-wire-template/pkg/config"
 	"fiber-wire-template/pkg/gredis"
+	"fiber-wire-template/pkg/jwt"
 	"fiber-wire-template/pkg/log"
 	"fiber-wire-template/pkg/ozzodb"
 	"fiber-wire-template/pkg/server"
@@ -25,7 +26,8 @@ import (
 func NewApp(configConfig *config.Config, logger *log.Logger) (*server.FiberServer, error) {
 	handlerHandler := handler.NewHandler(logger)
 	sidSid := sid.NewSid()
-	serviceService := service.NewService(logger, sidSid)
+	jwtJWT := jwt.NewJwt(configConfig)
+	serviceService := service.NewService(logger, sidSid, jwtJWT)
 	db := ozzodb.NewDb(configConfig, logger)
 	redis := gredis.NewRedis(configConfig)
 	repositoryRepository := repository.NewRepository(db, redis, logger)
