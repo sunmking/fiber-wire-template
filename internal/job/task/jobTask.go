@@ -1,6 +1,8 @@
 package task
 
 import (
+	"encoding/json"
+	"fiber-wire-template/internal/model"
 	"fiber-wire-template/internal/repository"
 	"fiber-wire-template/pkg/util/table"
 	"fmt"
@@ -20,18 +22,19 @@ func NewJobTask(r *repository.Repository) JobTask {
 
 func (u *jobTask) Run() {
 	q := u.Db.Select().
-		From(table.TbaAccessLog).
+		From(table.TbaUser).
 		OrderBy("id")
 
 	// fetch all rows into a struct array
-	var users []struct {
-		ID  int64  `db:"id"`
-		URL string `db:"url"`
-	}
+	var users []model.User
 	err := q.All(&users)
 
 	if err != nil {
 		u.Logger.Error("", zap.Error(err))
 	}
-	fmt.Println(users[1].URL)
+	for _, user := range users {
+		fmt.Println(user)
+	}
+	v, _ := json.Marshal(users)
+	fmt.Printf("%s\\n", v)
 }

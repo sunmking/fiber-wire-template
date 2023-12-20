@@ -1,7 +1,9 @@
 package repository
 
 import (
+	"fiber-wire-template/internal/model"
 	"fiber-wire-template/pkg/util/table"
+	"fmt"
 	"github.com/gofiber/fiber/v2"
 )
 
@@ -10,7 +12,7 @@ type userRepository struct {
 }
 type UserRepository interface {
 	Create(ctx *fiber.Ctx) error
-	GetList(ctx *fiber.Ctx) ([]struct{}, error)
+	GetList(ctx *fiber.Ctx) ([]model.User, error)
 	GetOne(ctx *fiber.Ctx) error
 	Update(ctx *fiber.Ctx) error
 	Delete(ctx *fiber.Ctx) error
@@ -25,11 +27,13 @@ func (u userRepository) Create(ctx *fiber.Ctx) error {
 	panic("implement me")
 }
 
-func (u userRepository) GetList(ctx *fiber.Ctx) ([]struct{}, error) {
-	var users []struct{}
+func (u userRepository) GetList(ctx *fiber.Ctx) ([]model.User, error) {
+	var users []model.User
 	//TODO implement me
 	var q = u.Db.Select("*").From(table.TbaUser).OrderBy("id DESC")
 	err := q.All(&users)
+	fmt.Println(err)
+	fmt.Println(users)
 	if err != nil {
 		return nil, err
 	}

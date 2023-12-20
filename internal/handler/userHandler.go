@@ -22,7 +22,7 @@ func (u userHandler) GetUserList(ctx *fiber.Ctx) error {
 	users := u.userService.GetList(ctx)
 	if users != nil {
 		return ctx.Status(fiber.StatusInternalServerError).JSON(fiber.Map{
-			"message": users.Error(),
+			"message": users,
 		})
 	} else {
 		return ctx.Status(fiber.StatusOK).JSON(fiber.Map{

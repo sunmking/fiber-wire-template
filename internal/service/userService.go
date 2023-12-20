@@ -2,13 +2,14 @@ package service
 
 import (
 	"fiber-wire-template/internal/repository"
+	"fmt"
 	"github.com/gofiber/fiber/v2"
 )
 
 type UserService interface {
 	Create(ctx *fiber.Ctx) error
 	Update(ctx *fiber.Ctx) error
-	GetList(ctx *fiber.Ctx) error
+	GetList(ctx *fiber.Ctx) interface{}
 	GetOne(ctx *fiber.Ctx) error
 	Delete(ctx *fiber.Ctx) error
 }
@@ -35,11 +36,12 @@ func (u userService) Update(ctx *fiber.Ctx) error {
 	panic("implement me")
 }
 
-func (u userService) GetList(ctx *fiber.Ctx) error {
+func (u userService) GetList(ctx *fiber.Ctx) interface{} {
 	if users, err := u.userRepo.GetList(ctx); err != nil {
 		return err
 	} else {
-		return ctx.JSON(users)
+		fmt.Println(users)
+		return users
 	}
 }
 
