@@ -1,8 +1,8 @@
 app:
-  jwtSecret: 123456
+  jwtSecret: "" # Loaded from APP_JWT_SECRET
   jwtExpire: 1000
-  appSecret: 123456
-  appKey: 123456
+  appSecret: "" # Loaded from APP_APP_SECRET
+  appKey: ""    # Loaded from APP_APP_KEY
 server:
   port: 8080
   runMode: debug
