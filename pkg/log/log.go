@@ -17,7 +17,7 @@ type contextKey int
 const (
 	requestIDKey contextKey = iota
 	correlationIDKey
-	logTmFmtWithMS = "2006-01-02 15:04:05.000000000"
+	logTmFmtWithMS = "2006-01-02 15:04:05.000" // Changed to millisecond precision
 )
 
 type Logger struct {
@@ -144,7 +144,9 @@ func WithRequest(ctx context.Context, req *fiber.Ctx) context.Context {
 	return ctx
 }
 
-// getCorrelationID extracts the correlation ID from the HTTP request
+// getCorrelationID extracts the correlation ID from the HTTP request.
+// Note: This relies on a value being set in the Fiber context with the key "requestid",
+// likely by a preceding middleware.
 func getCorrelationID(c *fiber.Ctx) interface{} {
 	return c.Context().Value("requestid")
 }

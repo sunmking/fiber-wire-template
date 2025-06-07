@@ -24,8 +24,8 @@ func NewRedis(setting *config.Config) *Redis {
 				return nil, err
 			}
 
-			if setting.RedisCnf.Pass != "" {
-				if _, err := c.Do("AUTH", setting.RedisCnf.Pass); err != nil {
+			if setting.RedisCnf.Password != "" { // Corrected from Pass to Password
+				if _, err := c.Do("AUTH", setting.RedisCnf.Password); err != nil {
 					err := c.Close()
 					if err != nil {
 						return nil, err
@@ -50,6 +50,8 @@ func (r *Redis) Set(key string, data interface{}, time int) error {
 	defer func(conn redis.Conn) {
 		err := conn.Close()
 		if err != nil {
+			// Panicking on a connection close error might be too aggressive.
+			// Consider logging the error instead, as the pool handles connection health.
 			panic(fmt.Sprintf("redis error: %s", err.Error()))
 		}
 	}(conn)
@@ -78,6 +80,8 @@ func (r *Redis) Exists(key string) bool {
 	defer func(conn redis.Conn) {
 		err := conn.Close()
 		if err != nil {
+			// Panicking on a connection close error might be too aggressive.
+			// Consider logging the error instead, as the pool handles connection health.
 			panic(fmt.Sprintf("redis error: %s", err.Error()))
 		}
 	}(conn)
@@ -93,6 +97,8 @@ func (r *Redis) Get(key string) ([]byte, error) {
 	defer func(conn redis.Conn) {
 		err := conn.Close()
 		if err != nil {
+			// Panicking on a connection close error might be too aggressive.
+			// Consider logging the error instead, as the pool handles connection health.
 			panic(fmt.Sprintf("redis error: %s", err.Error()))
 		}
 	}(conn)
@@ -108,28 +114,57 @@ func (r *Redis) Delete(key string) (bool, error) {
 	defer func(conn redis.Conn) {
 		err := conn.Close()
 		if err != nil {
+			// Panicking on a connection close error might be too aggressive.
+			// Consider logging the error instead, as the pool handles connection health.
 			panic(fmt.Sprintf("redis error: %s", err.Error()))
 		}
 	}(conn)
 	return redis.Bool(conn.Do("DEL", key))
 }
 
+// LikeDeletes WARNING: Using KEYS in production Redis is dangerous and can block the server.
+// This command may cause performance issues for Redis instances with a large number of keys.
+// Consider using Redis sets to manage collections of keys for bulk deletion,
+// or use SCAN for iterative deletion if pattern matching is absolutely necessary.
+// SCAN is less blocking but still requires careful implementation for bulk deletes.
+// For safety, this function will not execute if the key is empty or "*".
 func (r *Redis) LikeDeletes(key string) error {
+	if key == "" || key == "*" {
+		return fmt.Errorf("redis: unsafe LikeDeletes pattern '%s'. Aborting KEYS command", key)
+	}
+
 	conn := r.RedisConn.Get()
 	defer func(conn redis.Conn) {
 		err := conn.Close()
 		if err != nil {
+			// Panicking on a connection close error might be too aggressive.
+			// Consider logging the error instead, as the pool handles connection health.
 			panic(fmt.Sprintf("redis error: %s", err.Error()))
 		}
 	}(conn)
-	keys, err := redis.Strings(conn.Do("KEYS", "*"+key+"*"))
+
+	// Construct the pattern carefully. The original code used "*"+key+"*".
+	// Ensure this is the intended pattern. For example, if key is "user:123", pattern becomes "*user:123*".
+	pattern := "*" + key + "*"
+	keys, err := redis.Strings(conn.Do("KEYS", pattern))
 	if err != nil {
 		return err
 	}
-	for _, key := range keys {
-		_, err = r.Delete(key)
+
+	if len(keys) == 0 {
+		return nil // No keys matched, nothing to delete.
+	}
+
+	// Deleting keys one by one can be slow.
+	// Consider using a pipeline or DEL with multiple arguments if appropriate and supported.
+	// However, since Delete() itself gets a new connection, pipelining here is complex.
+	// For a large number of keys, this loop can be very slow.
+	for _, k := range keys { // Renamed loop variable to avoid shadowing 'key' parameter
+		_, err = r.Delete(k) // Use the loop variable 'k'
 		if err != nil {
-			return err
+			// Decide on error handling: return immediately or collect errors?
+			// Returning immediately might leave some keys undeleted.
+			return fmt.Errorf("redis: error deleting key '%s': %w", k, err)
 		}
 	}
 	return nil

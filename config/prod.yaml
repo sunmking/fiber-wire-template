@@ -1,16 +1,16 @@
 app:
-  jwtSecret: 123456
+  jwtSecret: "" # Loaded from APP_JWT_SECRET
   jwtExpire: 1000
-  appSecret: 123456
-  appKey: 123456
+  appSecret: "" # Loaded from APP_APP_SECRET
+  appKey: ""    # Loaded from APP_APP_KEY
 server:
   port: 8080
-  runMode: debug
+  runMode: release
   readTimeout: 1000
   writeTimeout: 1000
 log:
-  logLevel: debug
-  logEncoding: console
+  logLevel: info
+  logEncoding: json
   logSavePath: "./storage/logs/"
   logFileName: "server.log"
   maxBackups: 30
@@ -19,17 +19,17 @@ log:
   compress: true
 database:
   type: mysql
-  host: 127.0.0.1
-  port: 3306
-  dbname: syd_wms
-  user: root
-  password: 123456
-  charset: utf8mb4
+  host: "" # Loaded from DB_HOST
+  port: 3306 # Loaded from DB_PORT, defaults to 3306 if not set
+  dbname: "" # Loaded from DB_NAME
+  user: "" # Loaded from DB_USER
+  password: "" # Loaded from DB_PASSWORD
+  charset: "utf8mb4" # Loaded from DB_CHARSET, defaults to utf8mb4
   tablePrefix: ""
 redis:
-  host: 127.0.0.1:6379
-  password: ""
-  db: 0
+  host: "" # Loaded from REDIS_HOST
+  password: "" # Loaded from REDIS_PASSWORD
+  db: 0 # Loaded from REDIS_DB, defaults to 0 if not set
   maxIdle: 10
   maxActive: 10
   idleTimeout: 1000
